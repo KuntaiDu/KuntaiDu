@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kuntai Du 👋
 
-<!--
-**KuntaiDu/KuntaiDu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD student at the UChicago, working in Large Language Model Inference. Check my [home page](https://kuntaidu.github.io/aboutme) for more about me!
 
-Here are some ideas to get you started:
+## 🔧 Experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Working on [vLLM project](https://github.com/vllm-project/vllm) as vLLM team member. My contributions:
+  - Performance dashboard: [perf.vllm.ai](https://perf.vllm.ai).
+  - Performance comparison with other LLM inference engines: the end of the [blog](https://blog.vllm.ai/2024/09/05/perf-update.html).
+  - Features: Disaggregated prefilling and CPU offloading.
+- 💾 Contributing to the LMCache project, exploring fun ideas in KV caches.
+
+## 🎮 Hobbies and Interests
+
+- 🎮 **Gaming:** League of Legends, Stardew Valley, Go
+- 💃 **Street Dance:** Locking main, but I also dance waacking.
+- 🎤 **Singing:** [Loch Lomond](https://www.youtube.com/watch?v=A-3kBsEW-co&ab_channel=KuntaiDu) and [传奇 Legend](https://www.youtube.com/watch?v=wc4mTo6LCkg&ab_channel=KuntaiDu)
+
+## 📧 Contact
+
+- Email: [kuntai@uchicago.edu](mailto:kuntai@uchicago.edu)
+- LinkedIn: [Kuntai Du](https://www.linkedin.com/in/kuntai-du/)
