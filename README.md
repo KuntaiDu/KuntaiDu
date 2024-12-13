@@ -1,6 +1,6 @@
 # Hi, I'm Kuntai Du 👋
 
-I'm a PhD student at the UChicago, working in Large Language Model Inference. Check my [home page](https://kuntaidu.github.io/aboutme) for more about me!
+I'm a PhD student @ UChicago, graduating, working in Large Language Model Inference. Check my [home page](https://kuntaidu.github.io/aboutme) for more about me!
 
 ## 🔧 Experiences
 
