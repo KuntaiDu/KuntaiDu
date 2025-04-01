@@ -4,7 +4,7 @@ I'm a PhD student @ UChicago, graduating, working in Large Language Model Infere
 
 ## 🔧 Experiences
 
-- 🚀 Working on [vLLM project](https://github.com/vllm-project/vllm) as vLLM team member. My contributions:
+- 🚀 Working on [vLLM project](https://github.com/vllm-project/vllm)[![GitHub Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social)](https://github.com/vllm-project/vllm) as vLLM team member. My contributions:
   - Performance dashboard: [perf.vllm.ai](https://perf.vllm.ai).
   - Performance comparison with other LLM inference engines: the end of the [blog](https://blog.vllm.ai/2024/09/05/perf-update.html).
   - Features: Disaggregated prefilling and CPU offloading.
