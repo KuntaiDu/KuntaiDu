@@ -1,6 +1,6 @@
 # Hi, I'm Kuntai Du 👋
 
-PhD @ UChicago, now working as Chief Scientist in TensorMesh, Inc.
+Chief Scientist @ TensorMesh, Inc. Graduated from UChicago as CS PhD.
 
 Expertise: LLM inference, especially KV-cache-related optimizations.
 
@@ -8,8 +8,8 @@ Check my [home page](https://kuntaidu.github.io/aboutme) for more about me!
 
 ## 🔧 Experiences
 
-- 🚀 Working on [vLLM project](https://github.com/vllm-project/vllm)([![GitHub Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social)](https://github.com/vllm-project/vllm)) as vLLM core team member and committer.
-- 💾 Contributing to the [LMCache project](https://github.com/LMCache/LMCache)([![GitHub Stars](https://img.shields.io/github/stars/LMCache/LMCache?style=social)](https://github.com/LMCache/LMCache)), exploring fun ideas in KV caches.
+- 🚀 Working on [vLLM project](https://github.com/vllm-project/vllm)([![GitHub Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social)](https://github.com/vllm-project/vllm)) as vLLM **committer**.
+- 💾 Contributing to [LMCache project](https://github.com/LMCache/LMCache)([![GitHub Stars](https://img.shields.io/github/stars/LMCache/LMCache?style=social)](https://github.com/LMCache/LMCache)) as LMCache **committer**.
 
 ## 🎮 Hobbies and Interests
 
