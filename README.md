@@ -19,5 +19,5 @@ Check my [home page](https://kuntaidu.github.io/aboutme) for more about me!
 
 ## 📧 Contact
 
-- Email: first name@tensormesh.ai
+- Email: first name @ tensormesh.ai
 - LinkedIn: [Kuntai Du](https://www.linkedin.com/in/kuntai-du/)
